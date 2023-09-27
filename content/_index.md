@@ -16,7 +16,7 @@ sections:
   design:
     columns: "2"
     view: compact
-  id: featured
+  id: teaching
 - block: collection
   content:
     filters:
@@ -27,6 +27,7 @@ sections:
   design:
     columns: "2"
     view: compact
+  id: publication
 #- block: collection
 #  content:
 #    count: 5
