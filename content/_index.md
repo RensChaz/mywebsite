@@ -62,7 +62,7 @@ sections:
       featured_only: true
       folders:
       - publication
-    title: Recent Publications
+    title: Publications and Working Papers
   design:
     columns: "2"
     view: compact
