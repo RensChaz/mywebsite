@@ -19,7 +19,7 @@ publishDate: "2022-12-01T00:00:00Z"
 slides:
 summary:
 tags:
-title: "Assessing forest decentraliztion reforms: the impact of community forests on deforestation in Cameroon"
+title: "Assessing the Impact of the Forest Decentralization Reforms on Deforestation Rates in Cameroon"
 url_code:
 url_dataset: ""
 url_pdf: 

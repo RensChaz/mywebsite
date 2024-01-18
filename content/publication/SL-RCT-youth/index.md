@@ -21,8 +21,7 @@ publishDate: "2023-09-25T00:00:00Z"
 slides:
 summary:
 tags:
-title: "Youth empowerment as old trees’ gatekeepers? The impact of
-youth participation on land planning quality"
+title: "Inclusion through Participation? An Experimental Inquiry into Chieftaincies’ Representation of Marginalized Groups in Sierra Leone"
 url_code:
 url_dataset: ""
 url_pdf:
