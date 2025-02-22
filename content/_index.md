@@ -81,18 +81,18 @@ sections:
 - block: contact
   content:
     address:
-      city: San Domenico di Fiesole (FI)
-      country: Italy
-      country_code: IT
-      postcode: "I-50014"
-      region: CA
-      street: Badia Fiesolana - Via dei Roccettini 9
+      city: Lausanne
+      country: Switzerland
+      country_code: CH
+      postcode: "1015"
+      region: 
+      street: Odyssea Building, Route Cantonale - Avenue Forel 
     contact_links:
     - icon: linkedin
       icon_pack: fab
       link: https://www.linkedin.com/in/rens-chazottes-659341190/
       name: Rens Chazottes
-    email: rens.chazottes@eui.eu
+    email: rens.chazottes@epfl.ch
     subtitle: null
     text: Do you have a question? Do you need further information about a research I am working on? Send me a message!
     title: Contact
