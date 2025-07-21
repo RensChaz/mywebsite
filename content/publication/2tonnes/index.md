@@ -14,8 +14,8 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-publication: "Rapport de synthèse"
-publication_short: "Rapport de synthèse"
+publication: "Working paper"
+publication_short: "Working paper"
 publication_types:
   - "9"
 publishDate: "2025-07-23T00:00:00Z"
