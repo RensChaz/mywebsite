@@ -25,7 +25,7 @@ tags:
 title: "Evaluation d’impact des ateliers 2tonnes en contexte universitaire"
 url_code:
 url_dataset: ""
-url_pdf: publication/2tonnes/20250721_IMPACT-2T_rapport_evaluation_impact.pdf
+url_pdf: publication/2tonnes/20250723_IMPACT-2T_rapport_evaluation_impact.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
