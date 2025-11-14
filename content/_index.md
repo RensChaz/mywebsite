@@ -11,17 +11,6 @@ sections:
     filters:
       featured_only: true
       folders:
-      - teaching
-    title: Teaching
-  design:
-    columns: "2"
-    view: compact
-  id: teaching
-- block: collection
-  content:
-    filters:
-      featured_only: true
-      folders:
       - publication
     title: Publications and Working Papers
   design:
@@ -39,6 +28,17 @@ sections:
     columns: "2"
     view: compact
   id: publication
+- block: collection
+  content:
+    filters:
+      featured_only: true
+      folders:
+      - teaching
+    title: Teaching
+  design:
+    columns: "2"
+    view: compact
+  id: teaching
 #- block: collection
 #  content:
 #    count: 5
