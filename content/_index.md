@@ -28,6 +28,17 @@ sections:
     columns: "2"
     view: compact
   id: publication
+- block: collection
+  content:
+    filters:
+      featured_only: true
+      folders:
+      - policy
+    title: Policy Briefs and Project Reports
+  design:
+    columns: "2"
+    view: compact
+  id: publication
 #- block: collection
 #  content:
 #    count: 5

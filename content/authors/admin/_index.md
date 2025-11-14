@@ -18,11 +18,11 @@ email: "rens.chazottes@epfl.ch"
 first_name: Rens
 highlight_name: true
 interests:
-- Climate mitihation and adaptation politics
+- Climate politics
 - Traditional Political Institutions
 - Political Accountability
 - Deforestation
-- Drought
+- Drought adaptation
 last_name: Chazottes
 organizations:
 - name: Ecole Polytechnique Federale de Lausanne
