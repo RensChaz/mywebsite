@@ -1,5 +1,5 @@
 ---
-bio: My research is mainly focus on understanding the factors enabling the just transition.
+bio: I am a political scientist studying how institutions, social norms, and economic interests shape political accountability.
 education:
   courses:
   - course: PhD in comparative politics
@@ -18,10 +18,11 @@ email: "rens.chazottes@epfl.ch"
 first_name: Rens
 highlight_name: true
 interests:
-- Climate politics
+- Climate mitihation and adaptation politics
 - Traditional Political Institutions
-- Forest Governance
-- Degrowth
+- Political Accountability
+- Deforestation
+- Drought
 last_name: Chazottes
 organizations:
 - name: Ecole Polytechnique Federale de Lausanne
@@ -39,9 +40,10 @@ status:
 superuser: true
 title: Rens Chazottes
 ---
-I am a researcher with a deep interest in understanding the politics of transitioning economies.
 
-My work focuses on two main research agendas. First, I seek to better understand the institutional factors that facilitate an ecological and just transition. Specifically, I explore the mechanisms that shape support for fair yet costly climate policies. Second, I analyze the politics of drought responses in France.
+I am a political scientist studying how institutions, social norms, and economic interests shape political accountability. My research examines why leaders respond to certain groups rather than others, and how these dynamics influence the provision of public goods.
 
-To address these questions, I use a variety of methodological tools, including broadly defined experiments and quasi-experimental methods.
+I focus on two interrelated agendas. First, I analyze environmental politics as a window into broader patterns of accountability, including deforestation and drought-relief policies. Second, I investigate how citizens and intermediaries shape support for climate policies and pro-environmental behavior.
+
+Methodologically, I employ a combination of field experiments, quasi-experiments, and coordinated multi-site designs to uncover causal mechanisms. I also engage in applied work, evaluating interventions aimed at promoting sustainable behavior and broadening pro-climate coalitions.
 {style="text-align: justify;"}
