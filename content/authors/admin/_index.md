@@ -45,5 +45,5 @@ I am a political scientist studying how institutions, social norms, and economic
 
 I focus on two interrelated agendas. First, I analyze environmental politics as a window into broader patterns of accountability, including deforestation and drought-relief policies. Second, I study real world interventions aiming at broadening pro-climate coalitions.
 
-Methodologically, I employ a combination of field experiments, quasi-experiments, and coordinated multi-site designs to uncover causal mechanisms. I also engage in applied work, evaluating interventions aimed at promoting sustainable behavior and broadening pro-climate coalitions.
+Methodologically, I employ a combination of field experiments, quasi-experiments, and coordinated multi-site designs to uncover causal mechanisms.
 {style="text-align: justify;"}
