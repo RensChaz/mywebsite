@@ -103,7 +103,7 @@ sections:
       icon_pack: fab
       link: https://www.linkedin.com/in/rens-chazottes-659341190/
       name: Rens Chazottes
-    email: rens.chazottes@epfl.ch
+    email: rens.chazottes@proton.me
     subtitle: null
     text: Do you have a question? Do you need further information about a research I am working on? Send me a message!
     title: Contact
